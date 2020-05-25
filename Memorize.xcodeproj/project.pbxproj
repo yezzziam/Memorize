@@ -60,11 +60,11 @@
 		915B93FE24741CE500161550 /* Memorize */ = {
 			isa = PBXGroup;
 			children = (
-				9140A8B42476DD7A00943931 /* MemoryGame.swift */,
-				9140A8B62476E04200943931 /* EmojiMemoryGame.swift */,
 				915B93FF24741CE500161550 /* AppDelegate.swift */,
 				915B940124741CE500161550 /* SceneDelegate.swift */,
 				915B940324741CE500161550 /* ContentView.swift */,
+				9140A8B62476E04200943931 /* EmojiMemoryGame.swift */,
+				9140A8B42476DD7A00943931 /* MemoryGame.swift */,
 				915B940524741CE700161550 /* Assets.xcassets */,
 				915B940A24741CE700161550 /* LaunchScreen.storyboard */,
 				915B940D24741CE700161550 /* Info.plist */,
