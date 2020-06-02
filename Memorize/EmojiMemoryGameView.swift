@@ -44,6 +44,7 @@ struct CardView: View {
                 }
             }
         }
+        //.aspectRatio(2/3, contentMode: .fit)
         .font(Font.system(size: fontSize(for: size)))
     }
     
